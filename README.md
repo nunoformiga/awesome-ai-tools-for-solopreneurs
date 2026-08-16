@@ -13,13 +13,13 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - Affiliate links and disclosures stay on stackbuilt.co.
 
 ## Snapshot
-- Tools: 62
-- Free tools: 45
+- Tools: 63
+- Free tools: 46
 - Founder-tested picks: 22
-- Last sync: 2026-02-27
+- Last sync: 2026-08-16
 
 ## Contents
-- [AI Video](#ai-video) (7)
+- [AI Video](#ai-video) (8)
 - [AI Writing](#ai-writing) (7)
 - [AI Image](#ai-image) (6)
 - [AI Development](#ai-development) (4)
@@ -47,6 +47,7 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 
 - [HeyGen](https://heygen.com/) - Viral video translation and realistic custom avatars. Price: Free + $29/month.
 - [Pictory](https://pictory.ai/) - Turn long-form content into short, shareable social clips. Price: Free + $19/month.
+- [videos.social](https://videos.social/?utm_source=nunoformiga-awesome-ai-tools-for-solopreneurs&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos. Price: 1 free render + packs from $10.
 - [Runway ML](https://runwayml.com/) - Generative AI suite for video creation and editing. Price: Free + $12/month.
 - [Colossyan](https://colossyan.com/) - AI video generation focusing on L&D and training. Price: Free + $30/month.
 - [InVideo](https://invideo.io/) - Robust video editor with AI capabilities. Price: Free + $15/month.

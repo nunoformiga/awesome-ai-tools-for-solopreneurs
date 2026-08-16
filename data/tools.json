@@ -1,8 +1,8 @@
 {
   "generatedBy": "scripts/export-github-ai-list.mjs",
-  "generatedAt": "2026-02-27",
-  "total": 62,
-  "freeTools": 45,
+  "generatedAt": "2026-08-16",
+  "total": 63,
+  "freeTools": 46,
   "founderTools": 22,
   "entries": [
     {
@@ -452,6 +452,21 @@
       ],
       "priceText": "Free + $19/month",
       "githubUrl": "https://pictory.ai/"
+    },
+    {
+      "id": "videos-social",
+      "name": "videos.social",
+      "oneLiner": "Turn blogs, PDFs, and prompts into editable faceless videos",
+      "category": "ai-video",
+      "categoryLabel": "AI Video",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "content-creation",
+        "video-editing"
+      ],
+      "priceText": "1 free render + packs from $10",
+      "githubUrl": "https://videos.social/?utm_source=nunoformiga-awesome-ai-tools-for-solopreneurs&utm_medium=directory&utm_campaign=listing-wave-d"
     },
     {
       "id": "runway-ml",
