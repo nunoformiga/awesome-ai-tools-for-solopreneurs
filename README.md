@@ -13,8 +13,8 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - Affiliate links and disclosures stay on stackbuilt.co.
 
 ## Snapshot
-- Tools: 62
-- Free tools: 45
+- Tools: 63
+- Free tools: 46
 - Founder-tested picks: 22
 - Last sync: 2026-02-27
 
@@ -26,11 +26,11 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - [Productivity](#productivity) (4)
 - [AI Assistant](#ai-assistant) (3)
 - [AI Audio](#ai-audio) (3)
+- [AI Research](#ai-research) (3)
 - [Automation Workflows](#automation-workflows) (3)
 - [Chatbot](#chatbot) (3)
 - [No Code Platform](#no-code-platform) (3)
 - [AI Design](#ai-design) (2)
-- [AI Research](#ai-research) (2)
 - [Analytics BI](#analytics-bi) (2)
 - [ML Platform](#ml-platform) (2)
 - [RPA](#rpa) (2)
@@ -98,6 +98,12 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - [Murf.ai](https://murf.ai/) - Studio-quality voiceovers for professional presentations. Price: Free + $19/month.
 - [Speechify](https://speechify.com/) - Converts text, books, and PDFs into audio. Price: Free + $11/month.
 
+## AI Research
+
+- [Perplexity Pro](https://perplexity.ai/) - AI search engine that cites sources. Price: Free + $20/month.
+- [Consensus](https://consensus.app/) - AI search engine for academic research papers. Price: Free + $8/month.
+- [IdeaHunter](https://ideahunter.today/) - Demand-backed app and micro-SaaS idea research for solo founders. Price: Free + subscription.
+
 ## Automation Workflows
 
 - [Make.com](https://www.make.com/) - Connect any app to any app without code. Price: Free + $9/month.
@@ -120,11 +126,6 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 
 - [Canva Pro](https://www.canva.com/) - Design anything with AI-powered tools. Price: Free + $12.99/month.
 - [AdCreative.ai](https://adcreative.ai/) - Performance marketing assets optimized for conversion. Price: $29/month.
-
-## AI Research
-
-- [Perplexity Pro](https://perplexity.ai/) - AI search engine that cites sources. Price: Free + $20/month.
-- [Consensus](https://consensus.app/) - AI search engine for academic research papers. Price: Free + $8/month.
 
 ## Analytics BI
 
