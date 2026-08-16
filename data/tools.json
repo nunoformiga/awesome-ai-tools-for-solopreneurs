@@ -1,8 +1,8 @@
 {
   "generatedBy": "scripts/export-github-ai-list.mjs",
   "generatedAt": "2026-02-27",
-  "total": 62,
-  "freeTools": 45,
+  "total": 63,
+  "freeTools": 46,
   "founderTools": 22,
   "entries": [
     {
@@ -928,6 +928,21 @@
       ],
       "priceText": "Free + $9/month",
       "githubUrl": "https://rytr.me/"
+    },
+    {
+      "id": "ideahunter",
+      "name": "IdeaHunter",
+      "oneLiner": "Demand-backed app and micro-SaaS idea research for solo founders",
+      "category": "ai-research",
+      "categoryLabel": "AI Research",
+      "rating": 8,
+      "founderUses": false,
+      "useCases": [
+        "data-research",
+        "workflows-ops"
+      ],
+      "priceText": "Free + subscription",
+      "githubUrl": "https://ideahunter.today/"
     }
   ]
 }
