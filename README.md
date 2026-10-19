@@ -13,8 +13,8 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - Affiliate links and disclosures stay on stackbuilt.co.
 
 ## Snapshot
-- Tools: 62
-- Free tools: 45
+- Tools: 63
+- Free tools: 46
 - Founder-tested picks: 22
 - Last sync: 2026-02-27
 
@@ -23,10 +23,10 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - [AI Writing](#ai-writing) (7)
 - [AI Image](#ai-image) (6)
 - [AI Development](#ai-development) (4)
+- [Automation Workflows](#automation-workflows) (4)
 - [Productivity](#productivity) (4)
 - [AI Assistant](#ai-assistant) (3)
 - [AI Audio](#ai-audio) (3)
-- [Automation Workflows](#automation-workflows) (3)
 - [Chatbot](#chatbot) (3)
 - [No Code Platform](#no-code-platform) (3)
 - [AI Design](#ai-design) (2)
@@ -79,6 +79,13 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - [Bito AI](https://bito.ai/) - AI coding assistant for teams and CTOs. Price: Free + $15/month.
 - [Tabnine](https://tabnine.com/) - AI code completions with privacy and enterprise focus. Price: Free + $12/month.
 
+## Automation Workflows
+
+- [Make.com](https://www.make.com/) - Connect any app to any app without code. Price: Free + $9/month.
+- [n8n](https://n8n.io/) - Free and open workflow automation tool. Price: Free.
+- [Zapier](https://zapier.com/) - The easiest way to automate your work. Price: Free + $19/month.
+- [Xiaolan Assistant (BlueDoAI)](https://www.bluedoai.com/tools/) - Windows desktop assistant for multi-step business tasks. Price: Free desktop tool; optional metered models.
+
 ## Productivity
 
 - [Notion](https://notion.so/) - Connected workspace for wiki, docs, and projects with AI. Price: Free + $10/month.
@@ -97,12 +104,6 @@ Use StackBuilt for implementation guides and ROI-driven tool decisions.
 - [ElevenLabs](https://elevenlabs.io/) - Ultra-realistic AI text-to-speech and voice cloning. Price: Free + $5/month.
 - [Murf.ai](https://murf.ai/) - Studio-quality voiceovers for professional presentations. Price: Free + $19/month.
 - [Speechify](https://speechify.com/) - Converts text, books, and PDFs into audio. Price: Free + $11/month.
-
-## Automation Workflows
-
-- [Make.com](https://www.make.com/) - Connect any app to any app without code. Price: Free + $9/month.
-- [n8n](https://n8n.io/) - Free and open workflow automation tool. Price: Free.
-- [Zapier](https://zapier.com/) - The easiest way to automate your work. Price: Free + $19/month.
 
 ## Chatbot
 

@@ -1,8 +1,8 @@
 {
   "generatedBy": "scripts/export-github-ai-list.mjs",
   "generatedAt": "2026-02-27",
-  "total": 62,
-  "freeTools": 45,
+  "total": 63,
+  "freeTools": 46,
   "founderTools": 22,
   "entries": [
     {
@@ -928,6 +928,20 @@
       ],
       "priceText": "Free + $9/month",
       "githubUrl": "https://rytr.me/"
+    },
+    {
+      "id": "xiaolan-assistant-bluedoai",
+      "name": "Xiaolan Assistant (BlueDoAI)",
+      "oneLiner": "Windows desktop assistant for multi-step business tasks",
+      "category": "automation-workflows",
+      "categoryLabel": "Automation Workflows",
+      "rating": null,
+      "founderUses": false,
+      "useCases": [
+        "workflows-ops"
+      ],
+      "priceText": "Free desktop tool; optional metered models",
+      "githubUrl": "https://www.bluedoai.com/tools/"
     }
   ]
 }
